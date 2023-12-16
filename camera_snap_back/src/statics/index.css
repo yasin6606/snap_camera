@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+}
+
+.margin-unset {
+    margin: unset;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.bg-danger {
+    background-color: red;
+}
+
+.bg-primary {
+    background-color: blue;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.justify-content-center {
+    justify-content: center;
+}

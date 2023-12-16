@@ -1,0 +1,25 @@
+.idea
+
+camera_snap/node_modules/
+camera_snap/.expo/
+camera_snap/dist/
+camera_snap/npm-debug.*
+camera_snap/*.jks
+camera_snap/*.p8
+camera_snap/*.p12
+camera_snap/*.key
+camera_snap/*.mobileprovision
+camera_snap/*.orig.*
+camera_snap/web-build/
+camera_snap/package-lock.json
+
+# macOS
+camera_snap/.DS_Store
+
+camera_snap_back/.idea
+camera_snap_back/node_modules
+camera_snap_back/Public
+camera_snap_back/.gitignore
+camera_snap_back/.gitignore.swp
+camera_snap_back/package-lock.json
+camera_snap_back/passGit.txt
